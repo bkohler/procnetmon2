@@ -148,11 +148,3 @@ TOTAL            1.7 Mbps   2.4 Mbps    1.3 GB      2.2 GB       15     1
   }
 }
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the GPL License - see the [LICENSE](LICENSE) file for details.
